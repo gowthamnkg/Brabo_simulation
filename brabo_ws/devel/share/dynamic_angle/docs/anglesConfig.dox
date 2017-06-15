@@ -1,0 +1,10 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~base_joint_axis1" : \b [int] base_Angle min: -140, default: 50, max: 140
+- \b "~shoulder_joint_axis2" : \b [int] shoulder_Angle min: -135, default: 50, max: 135
+- \b "~arm_joint_axis3" : \b [int] arm_Angle min: -135, default: 50, max: 135
+- \b "~wristroll_joint_axis4" : \b [int] wristroll_Angle min: -360, default: 50, max: 360
+- \b "~wristyaw_joint_axis5" : \b [int] wristyaw_Angle min: -360, default: 50, max: 360
+

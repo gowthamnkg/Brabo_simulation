@@ -1,0 +1,8 @@
+prefix=/home/gowtham/Documents/temp_ws/install
+
+Name: dynamic_angle
+Description: Description of dynamic_angle
+Version: 0.0.0
+Cflags: -I/home/gowtham/Documents/temp_ws/install/include
+Libs: -L/home/gowtham/Documents/temp_ws/install/lib 
+Requires: 

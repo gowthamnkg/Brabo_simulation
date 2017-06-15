@@ -1,0 +1,2 @@
+dynamic_angle
+-DCATKIN_DEVEL_PREFIX=/home/gowtham/Documents/temp_ws/devel -DCMAKE_INSTALL_PREFIX=/home/gowtham/Documents/temp_ws/install -G Unix Makefiles

@@ -1,0 +1,11 @@
+\subsubsection usage Usage
+\verbatim
+<node name="dynamic_angle" pkg="dynamic_angle" type="dynamic_angle">
+  <param name="base_joint_axis1" type="int" value="50" />
+  <param name="shoulder_joint_axis2" type="int" value="50" />
+  <param name="arm_joint_axis3" type="int" value="50" />
+  <param name="wristroll_joint_axis4" type="int" value="50" />
+  <param name="wristyaw_joint_axis5" type="int" value="50" />
+</node>
+\endverbatim
+
